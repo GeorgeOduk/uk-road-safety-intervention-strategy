@@ -1,0 +1,21 @@
+# Raw data files are not committed to keep the repository lightweight.
+# Download instructions are provided in data/raw/README.md.
+data/raw/*
+!data/raw/README.md
+!data/raw/.gitkeep
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+
+# Power BI temporary files
+*.pbit.tmp
+
+# Excel temporary files
+~$*.xlsx
+
+# PowerPoint temporary files
+~$*.pptx
