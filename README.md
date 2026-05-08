@@ -1,5 +1,9 @@
 # UK Road Safety Intervention Strategy
 
+## Project Links
+- **Portfolio case study:** https://georgeoduk.github.io/road-safety.html
+- **GitHub repository:** https://github.com/GeorgeOduk/uk-road-safety-intervention-strategy
+
 ## Project Overview
 
 This is a consulting-style road safety analytics project using SQL Server, Power BI, Excel and PowerPoint.
